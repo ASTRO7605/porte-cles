@@ -5,16 +5,14 @@ D=70;
 // thickness
 T=7.5;
 // clearance
-tol=0.1;
+tol=0.13;
 number_of_planets=6;
 number_of_teeth_on_planets=7;
 approximate_number_of_teeth_on_sun=15;
 // pressure angle
 P=45;//[30:60]
 // number of teeth to twist across
-nTwist=0.5;
-// width of hexagonal hole
-w=0;
+nTwist=0.55;
 
 DR=0.5*1;// maximum depth ratio of teeth
 
